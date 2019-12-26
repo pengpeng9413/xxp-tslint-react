@@ -1,0 +1,21 @@
+{
+  "name": "tslint-config-xxp",
+  "version": "1.0.0",
+  "description": "tslint conf for xxp",
+  "main": "index.js",
+  "repository": "https://github.com/pengpeng9413/xxp-tslint-react.git",
+  "author": "“xiexiupeng” <“xxp564357196@163.com”>",
+  "license": "MIT",
+  "private": null,
+  "keywords": [
+    "tslint",
+    "config",
+    "xxp",
+    "frontend",
+    "ts",
+    "typescript"
+  ],
+  "dependencies": {
+    "tslint-react": "^4.1.0"
+  }
+}
