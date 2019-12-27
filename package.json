@@ -1,6 +1,6 @@
 {
   "name": "tslint-config-xxp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "tslint conf for xxp",
   "main": "index.js",
   "repository": "https://github.com/pengpeng9413/xxp-tslint-react.git",

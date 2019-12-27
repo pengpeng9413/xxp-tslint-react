@@ -1,7 +1,7 @@
 # xxp-tslint-react
-一个让自己写代码舒服的eslint规范
+一个让自己写代码舒服的tslint规范
 
-## TSLint Config for xiexiupeng himself
+## TSLint Config for react developer
 
 ## Installation
 
